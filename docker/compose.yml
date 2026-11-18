@@ -1,3 +1,4 @@
+name: web-kelompok3
 services:
   caddy:
     image: caddy:latest
